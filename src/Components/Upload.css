@@ -1,0 +1,37 @@
+textarea{
+    padding-top: 20px;
+    resize: none;
+    outline: none;
+    /* background-color: transparent; */
+    background: linear-gradient(to top left, #363750 0%, #151617 100%);
+    font-size: 1rem;
+    font-family: sans-serif;
+    /* border-radius: 20px; */
+    color: rgb(235, 235, 230);
+    margin-top: 20px;
+    padding-left: 150px;
+}
+.qn{
+    margin-left: 25%;
+    margin-top: 30px;
+}
+.answer{
+    margin-left: 20%;
+    
+}
+
+.answer textarea{
+    padding-left: 15%;
+}
+
+
+.subbtn{
+    padding: 15px;
+    margin-left: 80%;
+    margin-top: 15px;
+    margin-bottom: 28px;
+    border-radius: 45px;
+    background: linear-gradient(to top left, #ff6600 0%, #00ffcc 100%);
+    color: white;
+}
+
