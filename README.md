@@ -1,6 +1,6 @@
-# Student Code Share
+# Code Share
 
-Welcome to Student Code repository, a platform created for students to share and explore code snippets. Whether you need help with homework, want to collaborate on projects, or simply share interesting code, this is the space for you!
+Welcome to Code share, a platform created for students to share and explore code snippets. Whether you need help with homework, want to collaborate on projects, or simply share interesting code, this is the space for you!
 
 ## Project Migration
 
@@ -8,4 +8,4 @@ This project has been migrated from React to Next.js. Next.js is a React framewo
 
 ## Live Demo
 
-Check out the live demo of the project: [Project Demo](https://code-repository-pi.vercel.app/)
+Check out the live demo of the project: [Project Demo](https://think-twice-code-once.vercel.app/)
